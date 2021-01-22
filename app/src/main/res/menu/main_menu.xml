@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recipeListFragment"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="@string/str_mi_recipe_list" />
+    <item
+        android:id="@+id/shoppingListFragment"
+        android:icon="@drawable/ic_baseline_shopping_basket_24"
+        android:title="@string/str_mi_shopping_list" />
+    <item
+        android:id="@+id/shoppingMapFragment"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/str_mi_shopping_map" />
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/str_mi_settings" />
+</menu>

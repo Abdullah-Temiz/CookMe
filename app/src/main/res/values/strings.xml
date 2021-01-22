@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CookMe</string>
+    <string name="str_mi_recipe_list">Recipe List</string>
+    <string name="str_mi_shopping_list">Shopping List</string>
+    <string name="str_mi_shopping_map">Nearby Markets</string>
+    <string name="str_mi_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_card_btn_recipe">Learn More</string>
+    <string name="str_detail_recipe_name">Recipe Name</string>
+    <string name="str_detail_recipe_ingredients">Ingredients</string>
+    <string name="str_detail_recipe_description">Description</string>
+    <string name="str_btn_recipe_add">Save</string>
+</resources>
