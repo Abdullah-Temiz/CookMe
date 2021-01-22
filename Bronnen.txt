@@ -1,0 +1,5 @@
+de URL van de gebruikte bronnen:
+
+
+1) Opnames, slides en documenten van het vak: https://ehb.instructure.com/courses/20218/modules
+2) Documentatie van Android Studio: https://developer.android.com/guide
